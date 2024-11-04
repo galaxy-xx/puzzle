@@ -33,7 +33,7 @@ Qt 大作业 拼图游戏 三种难度 +A*算法还原+自定义图片 究极完
 
 当然，本项目也有一些bug，还原仅支持一次，再次还原只能重新运行，回退功能，只记录了一次步数，希望有用到本文章的人，可以完善！
 
-框架：
+完整介绍见：https://blog.csdn.net/2401_83227754/article/details/143475273?sharetype=blogdetail&sharerId=143475273&sharerefer=PC&sharesource=2401_83227754&spm=1011.2480.3001.8118
 
 
 
