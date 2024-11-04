@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/pexels-thiago-cheng-1990555985-28962499.jpg</file>
+        <file>img/拼图展示.jpg</file>
+        <file>img/blank.png</file>
+        <file>img/图片切割（4x4）.jpeg</file>
+    </qresource>
+    <qresource prefix="/photo">
+        <file>img/1.jpg</file>
+        <file>img/2.jpg</file>
+        <file>img/3.jpg</file>
+        <file>img/4.jpg</file>
+        <file>img/7.jpg</file>
+        <file>img/8.jpg</file>
+        <file>img/6.jpeg</file>
+        <file>img/5.jpg</file>
+    </qresource>
+</RCC>

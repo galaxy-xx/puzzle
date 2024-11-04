@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>dlgMenu</class>
+ <widget class="QDialog" name="dlgMenu">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>525</width>
+    <height>514</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>拼图小游戏 </string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QDialog#dlgMenu
+{
+   
+	
+	
+	border-image: url(:/img/图片切割（4x4）.jpeg);
+}</string>
+  </property>
+  <widget class="QPushButton" name="btStart">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>170</y>
+     <width>211</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(174, 119, 71);
+font: 700  28pt &quot;方正致青春体 简 Bold&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>开始游戏</string>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnExit">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>460</y>
+     <width>81</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgb(79, 74, 92);
+font: 800 13pt &quot;方正蕴黑 简 ExtraBold&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>退出游戏</string>
+   </property>
+   <property name="autoDefault">
+    <bool>true</bool>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnhard">
+   <property name="geometry">
+    <rect>
+     <x>206</x>
+     <y>340</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgb(79, 74, 92);
+font: 800 16pt &quot;方正蕴黑 简 ExtraBold&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>难度</string>
+   </property>
+   <property name="autoDefault">
+    <bool>true</bool>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnphoto">
+   <property name="geometry">
+    <rect>
+     <x>205</x>
+     <y>270</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgb(79, 74, 92);
+font: 800 16pt &quot;方正蕴黑 简 ExtraBold&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>自定义图片</string>
+   </property>
+   <property name="autoDefault">
+    <bool>true</bool>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>20</y>
+     <width>281</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+font: 700  100pt &quot;方正致青春体 简 Bold&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>拼图！</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

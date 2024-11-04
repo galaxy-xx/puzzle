@@ -1,0 +1,13 @@
+../../temp/obj/help.o
+../../temp/obj/DlgPlaying.o
+../../temp/obj/main.o
+../../temp/obj/DlgMenu.o
+../../temp/obj/play4x4.o
+../../temp/obj/play8x8.o
+../../temp/obj/s8number.o
+../../temp/obj/qrc_img.o
+../../temp/obj/moc_help.o
+../../temp/obj/moc_DlgPlaying.o
+../../temp/obj/moc_DlgMenu.o
+../../temp/obj/moc_play4x4.o
+../../temp/obj/moc_play8x8.o
